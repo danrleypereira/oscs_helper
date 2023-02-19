@@ -1,0 +1,22 @@
+.App {
+
+}
+
+.outlet {
+  height: 95vh;
+}
+
+nav {
+  height: 5vh;
+  bottom: 0;
+  position: absolute;
+}
+
+nav > a:first-child {
+  margin-left: 15vw;
+}
+
+nav > a {
+  margin: 3vh 5vw;
+}
+
