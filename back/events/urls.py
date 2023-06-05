@@ -4,7 +4,6 @@ from django.contrib.auth.models import User
 
 from .models import Event
 
-
 from . import views
 
 from rest_framework import routers, serializers, viewsets
